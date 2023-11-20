@@ -1,0 +1,40 @@
+html {
+    background-color:dodgerblue;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+} 
+
+div {
+    text-align: center;
+}
+
+h2 {
+    color:darkblue;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+p {
+    color:aqua;
+    font-size: 18px;
+}
+
+ul {
+    color: white;
+    font-size: 17px
+}
+
+h3 {
+    color:crimson;
+    font-size: 22px;
+}
+
+
+
+
+    
